@@ -11,16 +11,16 @@ applicants will be successful wiht funding by Alphabet Soup.
 
 ### Data Preprocessing
 
-*What variable(s) are considered the target(s) for your model?
+* What variable(s) are considered the target(s) for your model?
 Our target is IS_SUCCESSUL. This is also the output for the organizations that received funding over the years.
 
 
-*What variable(s) are considered to be the features for your model?
+* What variable(s) are considered to be the features for your model?
 The following variables are considered to be features: APPLICATION_TYPE, AFFILIATION, CLASSIFICATION, USE_CAE, ORGANIZATION,
 STATUS, INCOME_AMT, SPECIAL_CONSIDERATIONS, ASK_AMT ADN IS_SUCCESSFUL.
 
 
-*What variable(s) are neither targets nor features, and should be removed from the input data?
+* What variable(s) are neither targets nor features, and should be removed from the input data?
 We removed EIN and NAME from the data.
 
 
